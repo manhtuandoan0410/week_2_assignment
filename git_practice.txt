@@ -1,6 +1,0 @@
-Here’s a few different ways to add changes with the git add command:
-
-git add name_of_folder/some_file.txt: add changes in file some_file.txt in folder name_of_folder.
-git add name_of_folder: add all changes in folder name_of_folder.
-git add .: add all changes in the project. Always check the changes with git status before using this.
-git add -p: choose change by change, which ones to add. This only works for tracked files.
